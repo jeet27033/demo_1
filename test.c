@@ -3,7 +3,7 @@ int main() {
     int i = 0;
     while (i < 5) {
         printf("Iteration %d\n", i);
-        i++; // Increment i instead of decrementing
+        i++;
     }
     return 0;
 }
