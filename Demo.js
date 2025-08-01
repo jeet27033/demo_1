@@ -1,2 +1,4 @@
-const a = 10;
-console.log(a--)
+```javascript
+let a = 10;
+console.log(a--);
+```
